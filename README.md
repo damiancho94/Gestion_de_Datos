@@ -2,7 +2,7 @@
 En este repositorio se entregaran los avances correspondientes al trabajo final de la materia GESTION DE DATOS
 
 INTEGRANTES:
-Damián Felipe Castillo Gonzáleza, Edwin Leonardo Silva Piracoca b & Daniel Alejandro Córdoba Pulido 
+Damián Felipe Castillo González, Edwin Leonardo Silva Piracoca b & Daniel Alejandro Córdoba Pulido 
 
 2. Alcance y características generales del proyecto.
 
