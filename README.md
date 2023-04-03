@@ -20,8 +20,6 @@ Ahora por último al realizar un agrupamiento de la popularidad de canciones, se
 
 3. Organización del repositorio.
 
-
-
  Pasos para ejecutar y/o desplegar cada uno de los componentes
 implementados.
 
